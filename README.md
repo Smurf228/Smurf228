@@ -51,4 +51,5 @@ Arcade game where the player dodges enemies and collects bonuses.
 ## Contact
 
 - GitHub: https://github.com/Smurf228
+- LinkedIn: https://www.linkedin.com/in/danylo-udod-8a2890245/
 - Open to internship and junior developer opportunities
