@@ -48,11 +48,6 @@ Arcade game where the player dodges enemies and collects bonuses.
 - Frontend quality for portfolio-grade UI projects
 - Code structure and project documentation for production-like repositories
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Smurf228&show_icons=true&theme=default&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smurf228&layout=compact&hide_border=true)
-
 ## Contact
 
 - GitHub: https://github.com/Smurf228
